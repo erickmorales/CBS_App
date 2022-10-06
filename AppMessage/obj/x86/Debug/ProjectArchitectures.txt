@@ -1,0 +1,1 @@
+C:\Users\Trader\source\repos\FormSendMessage\AppMessage\AppMessage.csproj;x86

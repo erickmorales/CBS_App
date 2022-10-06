@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="messageWUPModelStoreContainer" CdmEntityContainer="messageWUPEntities">
+    <EntitySetMapping Name="Message">
+      <EntityTypeMapping TypeName="messageWUPModel.Message">
+        <MappingFragment StoreEntitySet="Message">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="ToNumber" ColumnName="ToNumber" />
+          <ScalarProperty Name="Message1" ColumnName="Message" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SendMessage">
+      <EntityTypeMapping TypeName="messageWUPModel.SendMessage">
+        <MappingFragment StoreEntitySet="SendMessage">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="MessageId" ColumnName="MessageId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Confirmation" ColumnName="Confirmation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

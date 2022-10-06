@@ -1,0 +1,13 @@
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\bin\Debug\WindowsFormsAppSendMessage.exe.config
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\bin\Debug\WindowsFormsAppSendMessage.exe
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\bin\Debug\WindowsFormsAppSendMessage.pdb
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\obj\Debug\WindowsFormsAppSendMessage.csproj.AssemblyReference.cache
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\obj\Debug\WindowsFormsAppSendMessage.Form1.resources
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\obj\Debug\WindowsFormsAppSendMessage.Properties.Resources.resources
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\obj\Debug\WindowsFormsAppSendMessage.csproj.GenerateResource.cache
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\obj\Debug\WindowsFormsAppSendMessage.csproj.CoreCompileInputs.cache
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\obj\Debug\WindowsFormsAppSendMessage.csproj.CopyComplete
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\obj\Debug\WindowsFormsAppSendMessage.exe
+C:\Users\Trader\source\repos\FormSendMessage\WindowsFormsAppSendMessage\obj\Debug\WindowsFormsAppSendMessage.pdb
