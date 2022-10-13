@@ -56,6 +56,10 @@ namespace WindowsFormsAppSendMessage
             TxtToNumber.Clear();
             TxtMessage.Clear();
             }
+
+
+
+
         }
 
         private async void Form1_Load(object sender, EventArgs e )

@@ -17,8 +17,8 @@ namespace apiTwilio.Controllers
             public ActionResult SendSms()
             {
                 string accountSid = ConfigurationManager.AppSettings["TwilioAccountSid"];
-                string authToken = Environment.GetEnvironmentVariable("TwilioAuthToken");
-                Twilio.TwilioClient.Init("AC146f11bb29f2b5ed200dfb899eb0b022", "eb776d4a1f410bd7813d357393e423e0");
+                string authToken = ConfigurationManager.AppSettings["TwilioAuthToken"];
+                Twilio.TwilioClient.Init(accountSid, authToken);
 
                 var to = new PhoneNumber(ConfigurationManager.AppSettings["MyPhoneNumber"]);
                 var from = new PhoneNumber("+13608002455");
@@ -34,7 +34,7 @@ namespace apiTwilio.Controllers
             return Content(message.Sid);
         }
 
-     /*
+     
         
         public ActionResult ReceiveSms()
         {
@@ -43,9 +43,9 @@ namespace apiTwilio.Controllers
 
             return TwiML(response);
         }
-        */
-
         
+
+     /*   
      [HttpPost]
      public TwiMLResult Index(SmsRequest incomingMessage)
      {
@@ -54,7 +54,7 @@ namespace apiTwilio.Controllers
 
          return TwiML(messagingResponse);
      }
-     
+     */
 
     }
 }
