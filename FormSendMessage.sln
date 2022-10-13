@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormSendMessageService", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppSendMessage", "WindowsFormsAppSendMessage\WindowsFormsAppSendMessage.csproj", "{3F6FD4D4-4C3C-4C0F-AF00-FA6CA628CE3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiTwilio", "apiTwilio\apiTwilio.csproj", "{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,26 @@ Global
 		{3F6FD4D4-4C3C-4C0F-AF00-FA6CA628CE3D}.Release|x64.Build.0 = Release|Any CPU
 		{3F6FD4D4-4C3C-4C0F-AF00-FA6CA628CE3D}.Release|x86.ActiveCfg = Release|Any CPU
 		{3F6FD4D4-4C3C-4C0F-AF00-FA6CA628CE3D}.Release|x86.Build.0 = Release|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Debug|ARM.Build.0 = Debug|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Debug|x64.Build.0 = Debug|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Debug|x86.Build.0 = Debug|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Release|ARM.ActiveCfg = Release|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Release|ARM.Build.0 = Release|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Release|ARM64.Build.0 = Release|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Release|x64.ActiveCfg = Release|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Release|x64.Build.0 = Release|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Release|x86.ActiveCfg = Release|Any CPU
+		{9AD4A29B-9B36-42B6-BF10-4CE6C6AB117E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

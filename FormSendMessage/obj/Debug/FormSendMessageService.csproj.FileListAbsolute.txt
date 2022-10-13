@@ -87,3 +87,12 @@ C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\obj\Debug\FormSendM
 C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\obj\Debug\FormSendMessageService.csproj.CopyComplete
 C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\obj\Debug\FormSendMessage.dll
 C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\obj\Debug\FormSendMessage.pdb
+C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\bin\Twilio.AspNet.Common.dll
+C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\bin\Twilio.AspNet.Mvc.dll
+C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\bin\Twilio.dll
+C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Trader\source\repos\FormSendMessage\FormSendMessage\bin\Twilio.xml
